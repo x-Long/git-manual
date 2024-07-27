@@ -170,6 +170,10 @@ git config --global user.email "liang_xaut@163.com"
 10. 新建一个分支，指向某个tag: git checkout -b [branch] [tag]
 ```
 
+git tag   https://blog.csdn.net/qq_39505245/article/details/124705850    
+
+
+
 ## 七、git 团队协作-git flow 工作流
 
 > 此部分详细内容待续
